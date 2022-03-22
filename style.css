@@ -1,25 +1,4 @@
-
-form {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
-}
-
-
-input[type=text] {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-
-}
-
-
-#form_login {
-    left: 50%;
-    top: 50%;
-    margin-left: 0;
-    position: absolute;
-    margin-top: 0;
+.form-center {
+    display: flex;
+    justify-content: center;
 }
